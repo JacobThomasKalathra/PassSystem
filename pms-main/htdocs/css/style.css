@@ -1,0 +1,5 @@
+.message {color: #FF0000;font-weight: bold;text-align: center;width: 100%;padding: 10;}
+.demo-table {background:#FFDFDF;width: 100%;border-spacing: initial;margin: 20px 0px;word-break: break-word;table-layout: auto;line-height:1.8em;color:#333;}
+.demo-table td {padding: 20px 15px 10px 15px;}
+.demoInputBox {padding: 7px;border: #F0F0F0 1px solid;border-radius: 4px;}
+.btnRegister {padding: 10px;background-color: #09F;border: 0;color: #FFF;cursor: pointer;}
