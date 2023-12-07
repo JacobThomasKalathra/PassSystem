@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=7WZJ_frTwMM
+Oracle HTTP Server 12c (12.2.1) - Standalone & Collocated Mode Installation & Configuration
+
+https://osamaoracle.com/2014/04/09/configure-php-with-oracle-http-server-ohs/
+
+
+\\psbldfs.us.oracle.com\dfs\build\pt\ptdist\pt856\856\debug\WINX86\install_Windows.ora\setup\psvccrt
+
+
+https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads
+
+
+https://www.itechtics.com/microsoft-visual-c-redistributable-versions-direct-download-links/
+
+phoenix42849  prod Test@30sys
+phoenix42850  dev 
+
+https://confluence.oraclecorp.com/confluence/display/PSFTENV/OCI+Migration+-+Third+Party+Tracking
+
+
+
+
+\\psbldfs\dfs\dep\DEP_DB\H92RSKIB\install.ora\TOOLSREL
+
+
+
+
+PED PROD DB is CADEVDB for slc10ger   and PED DEV is PMSDEVDB__DEVELOPMENT_PED for slc10xxi 
+
+copied the data from CADEVDB slc10ger to PED DEV is PMSDEVDB__DEVELOPMENT_PED for slc10xxi   on 23 aug 
